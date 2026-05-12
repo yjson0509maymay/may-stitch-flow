@@ -1,13 +1,15 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-orange: #F26115;
-  --color-brand-orange-hover: #DF540A;
+  --color-brand-ocean: #0EA5E9;
+  --color-brand-ocean-hover: #0284C7;
+  --color-brand-ocean-light: #E0F2FE;
+  --color-brand-coral: #F43F5E;
+  --color-brand-coral-hover: #E11D48;
+  --color-brand-coral-light: #FFE4E6;
   --color-brand-dark: #1E293B;
   --color-brand-gray: #64748B;
   --color-brand-light: #F8FAFC;
-  --color-brand-green: #15803D;
-  --color-brand-blue-light: #F1F5F9;
 }
 
 body {
@@ -19,9 +21,9 @@ body {
 }
 
 .gradient-hero {
-  background: linear-gradient(180deg, #FFFFFF 0%, #E2EAF8 100%);
+  background: linear-gradient(135deg, #E0F2FE 0%, #FFE4E6 100%);
 }
 
 .gradient-cta {
-  background: linear-gradient(90deg, #F26115 0%, #15803D 100%);
+  background: linear-gradient(135deg, #0EA5E9 0%, #F43F5E 100%);
 }
