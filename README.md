@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏖️ 연정이의 여행나루 (Yeonjeong's Travel)
 
-## Getting Started
+개인 여행 포트폴리오 및 코스 추천 웹사이트입니다. 복잡한 일상을 벗어나 훌쩍 떠나기 좋은 국내 여행지 코스와 마음을 채워주는 추천 도서를 소개합니다.
 
-First, run the development server:
+## 📌 주요 기능
+- **감성적인 여행지 큐레이션:** 바다 내음 가득한 '강릉 당일치기'와 화려한 매력의 '부산 1박 2일' 코스 및 예산 정보 제공.
+- **도서 추천 (Book Pick):** 여행의 쉼표가 되어줄 힐링 도서 추천 (마르바 던 - 《안식》).
+- **반응형 웹 디자인:** 데스크톱, 태블릿, 모바일에 최적화된 유려하고 모던한 UI.
 
+## 🎨 디자인 시스템
+- **Ocean Blue (`#0EA5E9`):** 시원한 바다의 청량함을 담은 메인 컬러
+- **Coral (`#F43F5E`):** 따뜻한 노을과 활기를 표현하는 포인트 컬러
+
+## 🚀 시작하기
+
+이 프로젝트는 [Next.js](https://nextjs.org/)와 Tailwind CSS v4를 사용하여 구축되었습니다.
+
+### 개발 환경 실행
 ```bash
+# 의존성 설치
+npm install
+
+# 개발 서버 실행
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+브라우저에서 [http://localhost:3000](http://localhost:3000) 주소로 접속하여 결과를 확인할 수 있습니다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 사용된 기술 (Tech Stack)
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** Tailwind CSS v4
+- **Icons:** [Lucide React](https://lucide.dev/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*© 2024 Yeonjeong's Travel. All rights reserved.*
