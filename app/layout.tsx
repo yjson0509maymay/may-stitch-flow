@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WriteFlow - AI 글쓰기 어시스턴트",
-  description: "AI와 함께 더 빠르게 더 잘 쓰세요.",
+  title: "연정이의 여행나루 - 당신의 여행을 더 풍성하게",
+  description: "가깝지만 너무여행여행한 강릉! 그리고 부산까지. 연정이의 여행 코스와 책 추천을 만나보세요.",
 };
 
 export default function RootLayout({
