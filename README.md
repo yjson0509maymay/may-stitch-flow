@@ -15,6 +15,10 @@
 
 이 프로젝트는 [Next.js](https://nextjs.org/)와 Tailwind CSS v4를 사용하여 구축되었습니다.
 
+### 🌍 라이브 데모 (Live Demo)
+Vercel에 성공적으로 배포되었습니다. 아래 링크를 통해 실제 라이브 버전을 확인하실 수 있습니다:
+👉 **[https://may-stitch-flow.vercel.app](https://may-stitch-flow.vercel.app)**
+
 ### 개발 환경 실행
 ```bash
 # 의존성 설치
@@ -23,8 +27,6 @@ npm install
 # 개발 서버 실행
 npm run dev
 ```
-
-브라우저에서 [http://localhost:3000](http://localhost:3000) 주소로 접속하여 결과를 확인할 수 있습니다.
 
 ## 🛠 사용된 기술 (Tech Stack)
 - **Framework:** [Next.js](https://nextjs.org/) (App Router)
